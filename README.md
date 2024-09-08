@@ -19,7 +19,7 @@
     <img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" alt="Microsoft Visual Studio Code" height="40" />
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python" height="40" />
+    <img src="https://devguide.python.org/_static/python-logo.svg" alt="Python" height="40" />
   </a>
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer">    
     HTML5
