@@ -69,10 +69,9 @@
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
     <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg" alt="Adobe Photoshop" height="40" />
   </a>
-  
-
-
 </div>
+
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cinerelan&show_icons=true&locale=en&layout=compact" alt="cinerelan" /></div>
 
 
 
