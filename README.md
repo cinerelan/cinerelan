@@ -63,9 +63,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://git-scm.com/images/logo@2x.png" alt="Git" height="40" />
   </a>
-    <a href="https://console.firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.gstatic.com/mobilesdk/240501_mobilesdk/firebase_64dp.png" alt="Firebase" height="40" />
-  </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer" style="color: #107c41;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Microsoft_Office_Excel_%282013%E2%80%932019%29.svg/150px-Microsoft_Office_Excel_%282013%E2%80%932019%29.svg.png" alt="Microsoft Excel" height="40" />
   </a>
