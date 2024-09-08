@@ -21,6 +21,9 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://devguide.python.org/_static/python-logo.svg" alt="Python" height="40" />
   </a>
+      <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="C" height="40" />
+  </a>
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer">    
     HTML5
   </a>
@@ -58,9 +61,6 @@
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://git-scm.com/images/logo@2x.png" alt="Git" height="40" />
-  </a>
-    <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="C" height="40" />
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer" style="color: #107c41;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Microsoft_Office_Excel_%282013%E2%80%932019%29.svg/150px-Microsoft_Office_Excel_%282013%E2%80%932019%29.svg.png" alt="Microsoft Excel" height="40" />
