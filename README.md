@@ -18,19 +18,19 @@
 <div align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" alt="Microsoft Visual Studio Code" height="40" />
-  </a>
+  </a>&nbsp;
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://devguide.python.org/_static/python-logo.svg" alt="Python" height="40" />
-  </a>
+  </a>&nbsp;
       <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="C" height="40" />
-  </a>
+  </a>&nbsp;
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer">    
     HTML5
-  </a>
+  </a>&nbsp;
   <a href="https://www.w3.org/TR/css3-roadmap/" target="_blank" rel="noreferrer">
     CSS3
-  </a>
+  </a>&nbsp;
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" >
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="40" />
   </a>
