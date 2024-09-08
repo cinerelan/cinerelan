@@ -17,7 +17,7 @@
 <h3 align="left">Languages and Tools I've worked with:</h3>
 <div align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" alt="Microsoft Visual Studio Code" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Microsoft Visual Studio Code" height="40" />
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://devguide.python.org/_static/python-logo.svg" alt="Python" height="40" />
