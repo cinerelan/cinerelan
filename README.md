@@ -14,7 +14,7 @@
 </div>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools I've worked with:</h3>
 <div align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" alt="Microsoft Visual Studio Code" height="40" />
